@@ -34,7 +34,7 @@
     <header>
       <div class="header-top wow fadeIn">
         <div class="container">
-          <a class="navbar-brand" href="index.php">市场魔术师</a>
+          <a class="navbar-brand" href="index.html">1Win</a>
         </div>
       </div>
       <div class="header-bottom wow fadeIn">
@@ -55,11 +55,11 @@
 
             <div id="navbar" class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
-                <li><a class="active" href="index.php">主</a></li>
-                <li><a href="blog.php">文章</a></li>
-                <li><a href="contact.php">联系方式</a></li>
-                <li><a href="policy.php">隐私政策</a></li>
-                <li><a href="terms.php">条款及细则</a></li>
+                <li><a class="active" href="index.html">主</a></li>
+                <li><a href="blog.html">文章</a></li>
+                <li><a href="contact.html">联系方式</a></li>
+                <li><a href="policy.html">隐私政策</a></li>
+                <li><a href="terms.html">条款及细则</a></li>
               </ul>
             </div>
           </nav>
@@ -107,7 +107,7 @@
           <div class="col-md-3 col-sm-6 col-xs-12">
             <div class="service-widget">
               <div class="post-media wow fadeIn">
-                <a href="05ffb8a0af18baa8b6eaae846db62068.php" class="hoverbutton global-radius"
+                <a href="05ffb8a0af18baa8b6eaae846db62068.html" class="hoverbutton global-radius"
                   ><i class="flaticon-unlink"></i
                 ></a>
                 <img src="./assets/images/bulksplash-craftedbygc-wvutnxz1hsc.jpg" alt="" class="img-responsive" />
@@ -121,7 +121,7 @@
           <div class="col-md-3 col-sm-6 col-xs-12">
             <div class="service-widget">
               <div class="post-media wow fadeIn">
-                <a href="fVJpyY1Mfc81BiQLDfpHwYR.php" class="hoverbutton global-radius"
+                <a href="fVJpyY1Mfc81BiQLDfpHwYR.html" class="hoverbutton global-radius"
                   ><i class="flaticon-unlink"></i
                 ></a>
                 <img src="./assets/images/bulksplash-nordwood-yymjnpgq-x8.jpg" alt="" class="img-responsive" />
@@ -135,7 +135,7 @@
           <div class="col-md-3 col-sm-6 col-xs-12">
             <div class="service-widget">
               <div class="post-media wow fadeIn">
-                <a href="Dy3yNyGHNT7rDgTgJqFjP4wg.php" class="hoverbutton global-radius"
+                <a href="Dy3yNyGHNT7rDgTgJqFjP4wg.html" class="hoverbutton global-radius"
                   ><i class="flaticon-unlink"></i
                 ></a>
                 <img src="./assets/images/bulksplash-craftedbygc-s9cc2skysjm.jpg" alt="" class="img-responsive" />
@@ -149,7 +149,7 @@
           <div class="col-md-3 col-sm-6 col-xs-12">
             <div class="service-widget">
               <div class="post-media wow fadeIn">
-                <a href="bDVRmfPEtxzwvkg71K.php" class="hoverbutton global-radius"
+                <a href="bDVRmfPEtxzwvkg71K.html" class="hoverbutton global-radius"
                   ><i class="flaticon-unlink"></i
                 ></a>
                 <img src="./assets/images/bulksplash-williamdaigneault-cd84ydl9px8.jpg" alt="" class="img-responsive" />
@@ -191,7 +191,7 @@ Noehaven, GA 23262</p>
                 <script>
                   document.write(new Date().getFullYear());
                 </script>
-                Copyright
+                1Win Copyright
               </p>
             </div>
           </div>
